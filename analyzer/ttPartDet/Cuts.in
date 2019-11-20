@@ -32,7 +32,7 @@ NRecoVertex          		1   -1   ///at least one good vertex
 NRecoTriggers1       		0   -1   /// 0-MC  1-Data
 NDiMuonCombinations 		0    0
 NRecoElectron1     		0    0   
-NRecoBJet            		0    0 
+NRecoBJet            		1   -1 
 NRecoMuon1         		1    1   
 NRecoTau1	      		1    1
 ***NMuon1Tau1Combinations  	1    1

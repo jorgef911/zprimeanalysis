@@ -2,19 +2,19 @@
                 Run
 ####################################
 
-CalculatePUSystematics true
+CalculatePUSystematics false
 DataHistos PileUpReweighting2016.root
 MCHistos mc2016_pileup_Dec2018reReco.root
 DataPUHistName pileup
 MCPUHistName pileup
 
 ApplyTauIDSF false
-UsePileUpWeight true
-ApplyZBoostSF true
+UsePileUpWeight false
+ApplyZBoostSF false
 ApplyPreFiring false
 
-isData false
-ApplyGenWeight true
+isData true
+ApplyGenWeight false
 
 ///------Triggers-----///
 
